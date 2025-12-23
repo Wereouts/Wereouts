@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o Guilherme!
 
 💻 Programador apaixonado por tecnologia  
-🚀 Focado em JavaScript, Git e desenvolvimento web  
+🚀 Focado em JavaScript, desenvolvimento web  
 📍 Brasil  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wereouts&show_icons=true&theme=tokyonight)
