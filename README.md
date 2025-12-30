@@ -24,9 +24,10 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas de Wereouts](https://github-readme-stats.vercel.app/api?username=Wereouts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wereouts&layout=compact&langs_count=7&theme=dracula)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wereouts&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wereouts&theme=dracula" />
+</p>
 
 ---
 
