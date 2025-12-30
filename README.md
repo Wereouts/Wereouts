@@ -1,10 +1,10 @@
 # Olá, eu sou o Guilherme Costa Alves! 👋
 
 ### 👨‍💻 Sobre Mim
-- 🚀 Atualmente focado em: [Ex: Desenvolvimento Web / Mobile / Ciência de Dados]
-- 🎓 Estudando: [Ex: Engenharia de Software na Unifesp / Curso X]
+- 🚀 Atualmente focado em: Desenvolvimento WEB
+- 🎓 Estudando: Cursos técnicos da Alura
 - 💡 Apaixonado por transformar ideias em código e resolver problemas complexos.
-- 🌱 Aprendendo no momento: [Ex: React Native, Go ou Docker]
+- 🌱 Aprendendo no momento: Nodejs, e C#.
 
 ---
 
@@ -31,8 +31,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ---
 
 ### 📂 Meus Projetos Principais
-- **[Nome do Projeto 1]**: [Breve descrição do que o projeto faz e tecnologias usadas].
-- **[Nome do Projeto 2]**: [Breve descrição do que o projeto faz].
+- **[Conversor]**: [Um conversor web completo para codificação e decodificação de diversos formatos para Base64 (Code64) e vice-versa. O projeto oferece suporte para imagens, vídeos, textos, arquivos e dados hexadecimais.].
+- **[✍️ Guarda Notas]**: [O Guarda Notas é uma aplicação web simples e funcional para criação de notas rápidas. O objetivo é permitir que o usuário salve ideias, organize pensamentos e gerencie pequenos lembretes].
 
 ---
 
