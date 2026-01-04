@@ -4,7 +4,7 @@
 - 🚀 Atualmente focado em: Desenvolvimento WEB
 - 🎓 Estudando: Cursos técnicos da Alura
 - 💡 Apaixonado por transformar ideias em código e resolver problemas complexos.
-- 🌱 Aprendendo no momento: Nodejs, e C#.
+- 🌱 Aprendendo no momento: Nodejs, React e C#
 
 ---
 
